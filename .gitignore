@@ -1,6 +1,7 @@
+main.exe
 # Prerequisites
 *.d
-main.exe
+
 # Object files
 *.o
 *.ko
